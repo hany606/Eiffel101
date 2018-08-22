@@ -1,5 +1,5 @@
 # Eiffel101
-Introduction to Eiffel
+<a>Introduction to Eiffel<\a>
 
-<h1>You will find the sourcecode which is commented to explain part by part of Eiffel Programming Language in "application.e"<\h1>
+<h4>You will find the sourcecode which is commented to explain part by part of Eiffel Programming Language in "application.e"
 
