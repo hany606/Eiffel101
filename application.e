@@ -1,4 +1,4 @@
---Naming_conventions:
+﻿--Naming_conventions:
 --In general, in Eiffel we use snake_script and not CamelCase.
 --CLASSES should be spelled in capital letters.
 --features (methods and attributes of classes) should be spelled small.
@@ -8,6 +8,7 @@
 --	Methods and Attribuits are called feature the difference between them if it has body then it is method
 --	Class variable are only read-only for the instances(clients) so, we should make setters for each variable that we need to overwrite
 		--by using "assign"
+--For multiple commenting you can use Ctrl+k , uncomment Shift+Ctrl+k
 
 --Strange things:
 --'%N' equivelant to '\n' to end line
@@ -16,6 +17,7 @@
 --define multiple parameters using semi-colon ; between each parameter
 --no return keyword in Eiffel there is Result that hold the returned value
 --float type called Real
+--There is no multiple Comment line only single line comment using -- at the start of the line
 
 
 --Resources:
@@ -24,6 +26,16 @@
 --https://www.eiffel.org/doc/eiffel/Eiffel_programming_language_syntax#Identifiers
 --http://rigaux.org/language-study/syntax-across-languages-per-language/Eiffel.html
 --http://www.minimalprogramming.org/html/section.eiffel.quick-tour.html
+
+--Check List:
+--The Basic Structure 							✓
+--Variables & types & Assigning					✓
+--Global and Local Variable						✓
+--Functions: Definitions & Calling & Parameters ✓
+--Loops											
+--Data Structure								
+--Creating Objects
+--Inheritance
 
 class
 	APPLICATION
