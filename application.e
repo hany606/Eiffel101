@@ -32,6 +32,8 @@
 --Variables & types & Assigning						✓
 --Global and Local Variable							✓
 --Functions: Definitions & Calling & Parameters 	✓
+--Input and Output
+--String and its manipulation
 --Loops											
 --Data Structure								
 --Creating Objects
