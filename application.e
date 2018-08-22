@@ -28,10 +28,10 @@
 --http://www.minimalprogramming.org/html/section.eiffel.quick-tour.html
 
 --Check List:
---The Basic Structure 							✓
---Variables & types & Assigning					✓
---Global and Local Variable						✓
---Functions: Definitions & Calling & Parameters ✓
+--The Basic Structure 								✓	
+--Variables & types & Assigning						✓
+--Global and Local Variable							✓
+--Functions: Definitions & Calling & Parameters 	✓
 --Loops											
 --Data Structure								
 --Creating Objects
